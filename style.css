@@ -1,0 +1,19 @@
+article{
+    text-align: center;
+    font-size: 35px;
+}
+h1.hover {
+     
+    color: pink;
+
+}
+
+p.hover {
+    color: royalblue;
+}
+p{
+    text-align: justify;
+    font-size: 25px;
+    color: lightpink;
+    background-color: lightslategrey;
+}
